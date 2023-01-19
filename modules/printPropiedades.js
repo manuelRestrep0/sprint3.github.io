@@ -10,6 +10,7 @@ export const printCardsPropiedades = (contenedor, arrayPropiedades) => {
                 </figure>
                 <button class="card__delete" name='${propiedad.id}'>❌</button>
                 <button class="card__favorite" name='${propiedad.id}'>❤</button>
+                <button class="card__edit" name='${propiedad.id}'>✏</button>
                 <h4 class="card__name">${propiedad.nombre}</h4>
                 <h4>${propiedad.ubicacion}</h4>
                 <h5>🚗:${propiedad.parqueadero}</h6>

@@ -57,6 +57,10 @@ document.addEventListener("click", async ({ target })=>{
       }
     });
   }
+  if(target.classList.contains("card__edit")){
+    sessionStorage.setItem("editPropiedad", JSON.stringify(target.name));
+    location.href = "./pages/editPropiedad.html";
+  }
   // agregar a favoritos
   if (target.classList.contains("card__favorite")) {
     const idFavorito = target.name;
