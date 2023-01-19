@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Unbounded', cursive;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 30px;
+  color: black;
+}
+
+.logo{
+  display: flex;
+  margin: 20px;
+  text-align: center;
+}
+
+.logo__title {
+  margin-top: 10px;
+}
+
+.barra{
+  display: flex;
+}
+
+.lista {
+  margin-left: 60%;
+  margin-top: 20px;
+  display: flex;
+  gap: 30px;
+  list-style: none;
+}
+
+header {
+  display: flex;
+  background-image: url("/images/hero-bg-image.png");
+  width: 100%;
+  height: 350px;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+}
+
+#contenedorCards{
+  display: flex;
+  padding: 30px;
+  gap: 120px 20px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  justify-content: flex-start;
+}
+
+.main__card{
+  width: 300px;
+  height: 300px;
+  position: relative;
+  color: black;
+}
+
+.card__image{
+  width: 100%;
+  height: 100%;
+}
+
+.card__image img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+}
+
+.card__name{
+  position: center;
+  bottom: 0;
+  left: 25%;
+  padding: 10px 5px;
+}
+
+.main__card:hover{
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;  
+}
+
+.card__delete, .card__edit, .card__favorite{
+  font-size: 25px;
+  position: absolute;
+  top: 0;
+  background-color: transparent;
+  border: none;
+  display: none;
+  padding: 5px;
+}
+
+.card__delete:hover, .card__edit:hover, .card__favorite:hover{
+  transform: scale(0.8);
+  cursor: pointer;
+}
+
+.main__card:hover .card__delete, .main__card:hover .card__edit, .main__card:hover .card__favorite{
+  display: block;
+}
+
+.card__edit{
+  top: 35px;
+  transform: rotate(45deg);
+  color: yellow;
+}
+
+.card__edit:hover{
+  transform: rotate(45deg) scale(0.8);
+}
+
+.card__favorite{
+  top: 260px;
+  left: 250px;
+  color: red;
+}

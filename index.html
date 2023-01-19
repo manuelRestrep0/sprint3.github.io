@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./styles/style.css">
+  <title>CasaRoyal</title>
+</head>
+<body>
+  <section class="logo">
+    <figure class="logo__figure">
+      <img src="./images/Fill 3.png" alt="logo" class="logo__img">
+    </figure>
+    <h2 class="logo__title">CasaRoyal</h2>
+    <nav class="barra">
+      <ul class="lista">
+        <li class="barra__item"><button>HOMEPAGE</button></li>
+        <li class="barra__item"><button id="propiedades">PROPERTIES</button></li>
+        <li class="barra__item"><button id="favorites">FAVORITES</button></li>
+        <li class="barra__item"><a href="./pages/addPropiedad.html">ADD PROPERTY</a></li>
+      </ul>
+    </nav>
+  </section>
+  <header>
+    <section>
+      <h1>Let Us Guide You Home</h1>
+      <p>Find the house of your dreams</p>
+      <select name="tipo" id="tipo">
+        <option value="">Select Type</option>
+        <option value="casa">Casa</option>
+        <option value="apartamento">Apartamento</option>
+      </select>
+      <select name="categoria" id="categoria">
+        <option value="">Select Status</option>
+        <option value="venta">En venta</option>
+        <option value="arriendo">Arriendo</option>
+      </select>
+      <input type="search" placeholder="Search for properties" id="search">
+      <button type="submit" id="submit">FIND PROPERTIES</button>
+    </section>
+  </header>
+  <main>
+    <section id="contenedorCards">
+      <article class="main__card">
+          <figure class="card__image">
+              <img src="https://static.wikia.nocookie.net/esstarwars/images/f/ff/Leia_photomasher.jpg" alt="name">
+          </figure>
+          <h4 class="card__name">Luke Skywalker</h4>
+      </article>
+  </section>
+  </main>
+  <script src="./scripts/script.js" type="module"></script>
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../styles/addPropiedad.css">
+  <title>Agregar Propiedad</title>
+</head>
+<body>
+  <h1 class="title">Agregar una nueva propiedad</h1>
+  <h2 class="subtitle"><a href="../index.html">Regresar a la pagina</a></h2>
+  <form class="form">
+    <label for="nombre">Nombre de la propieadad</label>
+    <input type="text" id="nombre">
+    <label for="ubicacion">Ubicacion</label>
+    <input type="text" id="ubicacion">
+    <label for="precio" >Precio</label>
+    <input type="text" id="precio">
+    <label for="categoria">Categoria de la propiedad</label>
+    <select name="" id="categoria">
+      <option value="">Seleccione una opcion</option>
+      <option value="arriendo">Arriendo</option>
+      <option value="venta">Venta</option>
+    </select>
+    <select name="" id="tipo">
+      <option value="">Seleccione una opcion</option>
+      <option value="apartamento">Apartamento</option>
+      <option value="casa">Casa</option>
+    </select>
+    <label for="miniatura">Ingrese la miniatura</label>
+    <input type="url" id="miniatura">
+    <label for="link">Ingrese una foto adicional de la propiedad</label>
+    <input type="url" id="imagenes">
+
+    <button type="submit">Enviar</button>
+  </form>
+  <script src="../scripts/addPropiedad.js" type="module"></script>
+</body>
+</html>
