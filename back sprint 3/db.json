@@ -1,0 +1,452 @@
+{
+  "favoritos": [
+    {
+      "id": 4,
+      "nombre": "Pilarica",
+      "ubicacion": "Medellin",
+      "area": 113,
+      "habitaciones": 3,
+      "banos": 3,
+      "tipo": "apartamento",
+      "categoria": "venta",
+      "precio": 546000000,
+      "parqueadero": "si",
+      "contacto": "Inmobiliaria",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/10/3475845_903_29.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/10/3475845_747_17.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/10/3475845_337_19.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/10/3475845_25_20.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Altos del poblado",
+      "ubicacion": "Medellin",
+      "area": 148,
+      "habitaciones": 3,
+      "banos": 3,
+      "tipo": "apartamento",
+      "categoria": "arriendo",
+      "precio": 7700000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737189.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737190.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737191.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737192.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "El poblado",
+      "ubicacion": "Medellin",
+      "area": 80,
+      "habitaciones": 2,
+      "banos": 2,
+      "tipo": "apartamento",
+      "categoria": "arriendo",
+      "precio": 5500000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/4/26/71953661.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/4/26/71953662.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/4/26/71953663.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/4/26/71953664.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "BALTICO",
+      "ubicacion": "Medellin",
+      "area": 108,
+      "habitaciones": 3,
+      "banos": 3,
+      "tipo": "apartamento",
+      "categoria": "venta",
+      "precio": 714951000,
+      "parqueadero": "si",
+      "contacto": "Inmobiliaria",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/30/3614405_161_4.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/30/3614405_398_11.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/30/3614405_888_8.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/30/3614405_592_9.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "El poblado",
+      "ubicacion": "Medellin",
+      "area": 200,
+      "habitaciones": 3,
+      "banos": 3,
+      "tipo": "apartamento",
+      "categoria": "arriendo",
+      "precio": 6900000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/10/25/79402170.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/10/25/79402172.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/10/25/79402174.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/10/25/79402178.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "nombre": "Patio Bonito",
+      "ubicacion": "Medellin",
+      "area": 220,
+      "habitaciones": 3,
+      "banos": 3,
+      "tipo": "apartamento",
+      "categoria": "arriendo",
+      "precio": 9200000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737067.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737071.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737073.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737075.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Loma de los Bernal",
+      "ubicacion": "Medellin",
+      "area": 130,
+      "habitaciones": 3,
+      "banos": 2,
+      "tipo": "apartamento",
+      "categoria": "arriendo",
+      "precio": 3800000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/9/4020465_697_0.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/9/4020465_919_2.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/9/4020465_470_9.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/9/4020465_676_10.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "nombre": "Laureles",
+      "ubicacion": "Medellin",
+      "area": 350,
+      "habitaciones": 7,
+      "banos": 4,
+      "tipo": "casa",
+      "categoria": "arriendo",
+      "precio": 10000000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/16/81278579.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/16/81278581.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/16/81278584.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/16/81278586.jpg"
+      ]
+    },
+    {
+      "id": 1,
+      "nombre": "El poblado",
+      "ubicacion": "Medellin",
+      "area": 108,
+      "habitaciones": 4,
+      "banos": 3,
+      "tipo": "apartamento",
+      "categoria": "venta",
+      "precio": 500000000,
+      "parqueadero": "si",
+      "contacto": "Inmobiliaria",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/22/4036780_258_1.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/22/4036780_555_6.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/22/4036780_235_9.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/22/4036780_595_13.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "nombre": "San Lucas",
+      "ubicacion": "Envigado",
+      "area": 325,
+      "habitaciones": 3,
+      "banos": 4,
+      "tipo": "casa",
+      "categoria": "arriendo",
+      "precio": 24500000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/6/81746310.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/6/81746311.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/6/81746312.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/6/81746313.jpg"
+      ]
+    }
+  ],
+  "propiedades": [
+    {
+      "id": 1,
+      "nombre": "El poblado",
+      "ubicacion": "Medellin",
+      "area": 108,
+      "habitaciones": 4,
+      "banos": 3,
+      "tipo": "apartamento",
+      "categoria": "venta",
+      "precio": 500000000,
+      "parqueadero": "si",
+      "contacto": "Inmobiliaria",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/22/4036780_258_1.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/22/4036780_555_6.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/22/4036780_235_9.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/22/4036780_595_13.jpg"
+      ]
+    },
+    {
+      "nombre": "BALTICO 2",
+      "ubicacion": "Medellin",
+      "precio": "714951000",
+      "habitaciones": "3",
+      "banos": "2",
+      "parqueadero": "si",
+      "categoria": "arriendo",
+      "tipo": "apartamento",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/30/3614405_161_4.jpg",
+      "imagenes": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/30/3614405_398_11.jpg",
+      "id": 2
+    },
+    {
+      "nombre": "Robledo",
+      "ubicacion": "Medellin",
+      "precio": "546000000",
+      "habitaciones": "3",
+      "banos": "3",
+      "parqueadero": "si",
+      "categoria": "venta",
+      "tipo": "apartamento",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/10/3475845_903_29.jpg",
+      "imagenes": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/10/3475845_747_17.jpg,https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/10/3475845_337_19.jpg,https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/3/10/3475845_25_20.jpg",
+      "id": 4
+    },
+    {
+      "id": 6,
+      "nombre": "Estadio",
+      "ubicacion": "Medellin",
+      "area": 112,
+      "habitaciones": 3,
+      "banos": 3,
+      "tipo": "apartamento",
+      "categoria": "venta",
+      "precio": 832000000,
+      "parqueadero": "si",
+      "contacto": "Inmobiliaria",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2021/2/8/2948004_111_35.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2021/2/8/2948004_775_31.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2021/2/8/2948004_274_29.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2021/2/8/2948004_966_21.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Santa Maria",
+      "ubicacion": "Medellin",
+      "area": 108,
+      "habitaciones": 3,
+      "banos": 2,
+      "tipo": "apartamento",
+      "categoria": "venta",
+      "precio": 670000000,
+      "parqueadero": "si",
+      "contacto": "Inmobiliaria",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/12/4053845_166_0.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/12/4053845_285_1.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/12/4053845_69_2.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/12/4053845_420_3.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "El poblado",
+      "ubicacion": "Medellin",
+      "area": 200,
+      "habitaciones": 3,
+      "banos": 3,
+      "tipo": "apartamento",
+      "categoria": "arriendo",
+      "precio": 6900000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/10/25/79402170.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/10/25/79402172.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/10/25/79402174.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/10/25/79402178.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "El poblado",
+      "ubicacion": "Medellin",
+      "area": 80,
+      "habitaciones": 2,
+      "banos": 2,
+      "tipo": "apartamento",
+      "categoria": "arriendo",
+      "precio": 5500000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/4/26/71953661.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/4/26/71953662.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/4/26/71953663.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/4/26/71953664.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Altos del poblado",
+      "ubicacion": "Medellin",
+      "area": 148,
+      "habitaciones": 3,
+      "banos": 3,
+      "tipo": "apartamento",
+      "categoria": "arriendo",
+      "precio": 7700000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737189.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737190.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737191.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737192.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "Ciudad del rio",
+      "ubicacion": "Medellin",
+      "area": 62,
+      "habitaciones": 2,
+      "banos": 2,
+      "tipo": "apartamento",
+      "categoria": "arriendo",
+      "precio": 2900000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/29/81606024.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/29/81606044.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/29/81606025.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/29/81606026.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Loma de los Bernal",
+      "ubicacion": "Medellin",
+      "area": 130,
+      "habitaciones": 3,
+      "banos": 2,
+      "tipo": "apartamento",
+      "categoria": "arriendo",
+      "precio": 3800000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/9/4020465_697_0.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/9/4020465_919_2.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/9/4020465_470_9.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/9/4020465_676_10.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "nombre": "Patio Bonito",
+      "ubicacion": "Medellin",
+      "area": 220,
+      "habitaciones": 3,
+      "banos": 3,
+      "tipo": "apartamento",
+      "categoria": "arriendo",
+      "precio": 9200000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737067.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737071.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737073.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/5/81737075.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "nombre": "San Lucas",
+      "ubicacion": "Envigado",
+      "area": 325,
+      "habitaciones": 3,
+      "banos": 4,
+      "tipo": "casa",
+      "categoria": "arriendo",
+      "precio": 24500000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/6/81746310.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/6/81746311.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/6/81746312.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2023/1/6/81746313.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "nombre": "Estadio",
+      "ubicacion": "Medellin",
+      "area": 290,
+      "habitaciones": 8,
+      "banos": 4,
+      "tipo": "casa",
+      "categoria": "arriendo",
+      "precio": 7500000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/6/4015524_75_20.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/6/4015524_459_28.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/6/4015524_307_18.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/6/4015524_994_15.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "nombre": "Laureles",
+      "ubicacion": "Medellin",
+      "area": 350,
+      "habitaciones": 7,
+      "banos": 4,
+      "tipo": "casa",
+      "categoria": "arriendo",
+      "precio": 10000000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/16/81278579.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/16/81278581.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/16/81278584.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/12/16/81278586.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "nombre": "San Lucas",
+      "ubicacion": "Envigado",
+      "area": 200,
+      "habitaciones": 3,
+      "banos": 4,
+      "tipo": "casa",
+      "categoria": "arriendo",
+      "precio": 6000000,
+      "parqueadero": "si",
+      "miniatura": "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/8/25/76670821.jpg",
+      "imagenes": [
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/8/25/76670823.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/8/25/76670824.jpg",
+        "https://s3.amazonaws.com/imagenesprof.fincaraiz.com.co/OVFR_COL/2022/8/25/76670825.jpg"
+      ]
+    }
+  ]
+}
